@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#define N 4
 
 void print_board(int n,int board[n][n]);
 void next_board(int n,int board[n][n],char c);
